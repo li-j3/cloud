@@ -59,7 +59,7 @@
     <dependency>
       <groupId>org.springframework</groupId>
       <artifactId>spring-expression</artifactId>
-      <version>5.2.7.RELEASE</version>
+      <version>5.2.21.RELEASE</version>
     </dependency>
     <!-- 配置spring-jcl的jar包依赖 -->
     <dependency>
